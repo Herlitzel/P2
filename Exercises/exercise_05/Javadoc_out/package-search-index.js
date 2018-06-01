@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ludo"},{"l":"ludo.render"},{"l":"ludo.square"}]
